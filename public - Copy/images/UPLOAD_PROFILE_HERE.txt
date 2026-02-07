@@ -1,0 +1,8 @@
+Placeholder for profile.jpg - Please upload the actual image file manually to c:\Users\ashue\OneDrive\Desktop\assignment1\public\images\profile.jpg
+
+To add your photo:
+1. Save the image as: profile.jpg
+2. Place it in: public/images/
+3. Refresh http://localhost:3000
+
+The site will automatically display it in the circular profile photo area in the header.
